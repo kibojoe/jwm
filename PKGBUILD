@@ -1,6 +1,7 @@
 # $Id$
 # Maintainer: Kyle Keen <keenerd@gmail.com>
 # Maintainer: Sergej Pupykin <pupykin.s+arch@gmail.com>
+# Maintainer: Holmes <holmes_holmes [at] live [dot] com>
 
 pkgname=jwm
 pkgver=2.3.7
